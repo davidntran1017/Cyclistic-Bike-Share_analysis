@@ -29,7 +29,7 @@ The analysis uses 12 months of historical Cyclistic trip data covering **June 20
 
 The monthly files were combined into a single dataset containing approximately **5.6 million rides** for analysis.
 
-The source data is publicly available through Divvy's historical trip data.
+The source data is publicly available through [Divvy's historical trip data](https://divvybikes.com/system-data).
 
 ## Data Preparation & Cleaning
 
