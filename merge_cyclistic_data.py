@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-folder_path = r"C:\Users\david\OneDrive - Temple University\Documents\coursera files\Case Study 1 data"
+folder_path = "data"
 
 output_filename = "cyclistic_12_months_raw.csv"
 output_path = os.path.join(folder_path, output_filename)
